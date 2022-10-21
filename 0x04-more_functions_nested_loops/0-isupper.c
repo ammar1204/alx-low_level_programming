@@ -1,9 +1,9 @@
-#include "main.c"
 
 /**
  * fghjj
  * gyytt
  * fhhghj
+ * main - dfgfghh
  */
 int _isupper(int c)
 {
