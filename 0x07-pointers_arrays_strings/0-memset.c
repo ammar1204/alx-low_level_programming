@@ -1,8 +1,7 @@
 #include "main.h"
-#include <string.h>
 
 /**
- * _memset - dsgfhf
+ * *_memset - dsgfhf
  * @s: sdff
  * @b: sdsfdgffd
  * @n: sarftred
